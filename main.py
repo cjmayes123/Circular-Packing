@@ -3,6 +3,7 @@ import csv
 import circlify
 import matplotlib.pyplot as plt
 
+#Sample Data
 data = [{'id': 'World', 'datum': 6964195249, 'children': [
 
               {'id': "North America", 'datum': 450448697, 'children':
